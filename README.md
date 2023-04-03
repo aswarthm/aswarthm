@@ -34,4 +34,3 @@ hardware guy at idkWhatWe'reDoing | Tech Enthusiast | Electronics Hobbyist
                       href="http://www.github.com/aswarthm"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=aswarthm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
                       href="http://www.github.com/aswarthm"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aswarthm&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-[![@bayah97420's Holopin board](https://holopin.io/api/user/board?user=bayah97420)](https://holopin.io/@bayah97420)
