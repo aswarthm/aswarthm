@@ -9,6 +9,8 @@ hardware guy at idkWhatWe'reDoing | Tech Enthusiast | Electronics Hobbyist
 <a href="https://www.github.com/aswarthm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aswarthm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+[![@bayah97420's Holopin board](https://holopin.io/api/user/board?user=bayah97420)](https://holopin.io/@bayah97420)
+
 ### Skills
 
 <p align="left">
@@ -39,4 +41,3 @@ src="https://img.shields.io/github/followers/aswarthm?logo=github&style=for-the-
 
 <a href="http://www.github.com/aswarthm"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aswarthm&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![@bayah97420's Holopin board](https://holopin.io/api/user/board?user=bayah97420)](https://holopin.io/@bayah97420)
